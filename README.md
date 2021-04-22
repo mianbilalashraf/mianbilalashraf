@@ -2,6 +2,8 @@
 <!-- <img width="100%" height = "250px" src="" alt="cover" /> -->
 </div>
 
+### Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Muhammad Bilal!
+
 <p align='center'>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=mianbilalashraf.mianbilalashraf)
