@@ -5,10 +5,9 @@
 ### Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Muhammad Bilal!
 
 <p align='left'>
-<a href="https://twitter.com/bilalashraf_xd" target="blank"><img src="https://img.shields.io/twitter/follow/bilalashraf_xd?logo=twitter&style=for-the-badge" alt="bilalashraf_xd" /></a>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=mianbilalashraf.mianbilalashraf)  
  
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=mianbilalashraf.mianbilalashraf)
-
+  <a href="https://twitter.com/bilalashraf_xd" target="blank"><img src="https://img.shields.io/twitter/follow/bilalashraf_xd?logo=twitter&style=for-the-badge" alt="bilalashraf_xd" /></a> 
 </p>
 
 <h2 align='center'> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 50px> </h2>
