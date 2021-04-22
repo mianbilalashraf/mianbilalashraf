@@ -4,9 +4,10 @@
 
 ### Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Muhammad Bilal!
 
-<p align='center'>
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=mianbilalashraf.mianbilalashraf)
+<p align='left'>
+<a href="https://twitter.com/bilalashraf_xd" target="blank"><img src="https://img.shields.io/twitter/follow/bilalashraf_xd?logo=twitter&style=for-the-badge" alt="bilalashraf_xd" /></a>
+ 
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=mianbilalashraf.mianbilalashraf)
 
 </p>
 
