@@ -38,4 +38,4 @@
 </a>
 
 <h2>Daily.dev <img src='https://lh3.googleusercontent.com/SZEbvoLIC0ULqsohKzW1nV2U3aqT-l-OqCws1w6mHRoQu-Sv3At3y5khPTrg3Cu1ykBLvZKyKJDVczlF85DVxViH=w128-h128-e365-rj-sc0x00ffffff' width='30px'> </h2>
-<a href="https://app.daily.dev/MianBilalAshraf"><img src="https://api.daily.dev/devcards/de4dd28170a447e5b73ba7cd06a92d11.png?r=wm3" width="400" alt="Muhammad Bilal's Dev Card"/></a>
+<a href="https://app.daily.dev/MianBilalAshraf"><img src="https://api.daily.dev/devcards/de4dd28170a447e5b73ba7cd06a92d11.png?r=kq2" width="400" alt="Muhammad Bilal's Dev Card"/></a>
