@@ -39,3 +39,6 @@
 
 <h2>Daily.dev <img src='https://lh3.googleusercontent.com/SZEbvoLIC0ULqsohKzW1nV2U3aqT-l-OqCws1w6mHRoQu-Sv3At3y5khPTrg3Cu1ykBLvZKyKJDVczlF85DVxViH=w128-h128-e365-rj-sc0x00ffffff' width='30px'> </h2>
 <a href="https://app.daily.dev/MianBilalAshraf"><img src="https://api.daily.dev/devcards/de4dd28170a447e5b73ba7cd06a92d11.png?r=kq2" width="400" alt="Muhammad Bilal's Dev Card"/></a>
+
+<div><div><script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+<lottie-player src="https://assets7.lottiefiles.com/packages/lf20_xsnsvpbs.json" background="transparent" speed="1" style="width: 640px; height: 600px;" hover="" loop="" autoplay=""></lottie-player></div></div>
