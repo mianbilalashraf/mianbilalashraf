@@ -27,11 +27,8 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@mianbilalashraf&compact=True"/>
 </a>
 <br>
+<br/>
 
-
-
-<h2>My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='30px'> </h2>
-<img  src="https://github-readme-stats.vercel.app/api?username=mianbilalashraf&count_private=true&show_icons=true&theme=default" />
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mianbilalashraf&date_format=M%20j%5B%2C%20Y%5D)
 
