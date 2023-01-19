@@ -9,19 +9,102 @@
  [<img src="https://img.shields.io/twitter/url?color=blue&label=StackOverflow&logo=stackoverflow&style=for-the-badge&url=https%3A%2F%2Fstackoverflow.com%2Fusers%2F8441593%2Fmuhammad-bilal%3Ftab%3Dprofile"/>](https://stackoverflow.com/users/8441593/muhammad-bilal?tab=profile) 
 
 <h2 align='center'> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px> </h2>
-<p align = 'center'>
-<img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg' title="ReactJS">
-<img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/laravel.svg' title="Laravel">
-<img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg' title="Javascript">
-<img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg' title="MongoDB">
-<img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg' title="Bootstrap">
-<img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg' title="mysql">
-<img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg' title="Typescript">
-<img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postman.svg' title="postman">
-<img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg' title="Node">
-<img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linux.svg' title="Linux">
-<br>
-</p>
+
+<div>
+<div>
+    <img
+        width="44px"
+        src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg"
+        title="ReactJS"
+        alt="ReactJS"
+    />
+    <div>ReactJs</div>
+</div>
+<div>
+    <img
+        width="44px"
+        alt="Laravel"
+        src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/laravel.svg"
+        title="Laravel"
+    />
+    <div>Laravel</div>
+</div>
+<div>
+    <img
+        width="44px"
+        alt="Javascript"
+        src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg"
+        title="Javascript"
+    />
+    <div>Javascript</div>
+</div>
+<div>
+    <img
+        width="44px"
+        alt="MongoDB"
+        src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg"
+        title="MongoDB"
+    />
+    <div>MongoDB</div>
+</div>
+<div>
+    <img
+        width="44px"
+        alt="Bootstrap"
+        src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg"
+        title="Bootstrap"
+    />
+    <div>Bootstrap</div>
+</div>
+
+<div>
+    <img
+        width="44px"
+        alt="mysql"
+        src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg"
+        title="mysql"
+    />
+    <div>MYSQL</div>
+</div>
+<div>
+    <img
+        width="44px"
+        alt="Typescript"
+        src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg"
+        title="Typescript"
+    />
+    <div>Typescript</div>
+</div>
+<div>
+    <img
+        width="44px"
+        alt="postman"
+        src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postman.svg"
+        title="postman"
+    />
+    <div>Postman</div>
+</div>
+<div>
+    <img
+        width="44px"
+        alt="Node"
+        src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg"
+        title="Node"
+    />
+    <div>NodeJs</div>
+</div>
+<div>
+    <img
+        width="44px"
+        alt="Linux"
+        src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linux.svg"
+        title="Linux"
+    />
+    <div>Linux(Ubuntu)</div>
+</div>
+  </div>
+    
+   <br/>
 <h2> Stuff I worked on last week  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px> </h2>
 <a href="https://github.com/mianbilalashraf/mianbilalashraf/blob/main/README.md#-stuff-i-worked-on-last-week---">
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@mianbilalashraf&compact=True"/>
