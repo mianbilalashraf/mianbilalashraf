@@ -10,8 +10,8 @@
 
 <h2 align='center'> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px> </h2>
 
-<div>
-<div>
+<div style="display:flex;flex-direction:row;flex-wrap:wrap">
+<div style="width:50px;display:inline;">
     <img
         width="44px"
         src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg"
@@ -20,7 +20,7 @@
     />
     <div>ReactJs</div>
 </div>
-<div>
+<div style="width:50px;display:inline;color:red;">
     <img
         width="44px"
         alt="Laravel"
@@ -29,7 +29,7 @@
     />
     <div>Laravel</div>
 </div>
-<div>
+<div style="width:50px;">
     <img
         width="44px"
         alt="Javascript"
