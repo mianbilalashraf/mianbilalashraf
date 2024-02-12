@@ -1,12 +1,14 @@
+<img src="https://github.com/mianbilalashraf/mianbilalashraf/blob/main/Muhammad%20Bilal.png" />
 
-
-### Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Full Stack Developer 🧑🏻‍💻
+###
+<div align='center' style="display:flex;flex-direction:row;flex-wrap:wrap;justify-content:center">
 <a href="https://twitter.com/bilalashraf_xd" target="_blank"><img src="https://img.shields.io/twitter/follow/BilalAshraf_XD?label=Follow&logo=twitter&style=for-the-badge" alt="bilalashraf_xd" /></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/github/followers/mianbilalashraf?label=Follow&logo=github&style=for-the-badge" alt="mianbilalashraf" /></a>
-[<img src="https://img.shields.io/twitter/url?color=blue&label=Linkedin&logo=linkedin&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fbilalashraf7996%2F" alt="mianbilalashraf" />](https://www.linkedin.com/in/bilalashraf7996/)
-[<img src="https://img.shields.io/twitter/url?label=Hackerrank&logo=Hackerrank&style=for-the-badge&url=https%3A%2F%2Fwww.hackerrank.com%2FBilalAshraf" alt="mianbilalashraf" />](https://www.hackerrank.com/BilalAshraf)
-[<img src="https://img.shields.io/twitter/url?color=blue&label=StackOverflow&logo=stackoverflow&style=for-the-badge&url=https%3A%2F%2Fstackoverflow.com%2Fusers%2F8441593%2Fmuhammad-bilal%3Ftab%3Dprofile"/>](https://stackoverflow.com/users/8441593/muhammad-bilal?tab=profile)
-
+<a href="https://www.linkedin.com/in/bilalashraf7996/" target="_blank"><img src="https://img.shields.io/twitter/url?color=blue&label=Linkedin&logo=linkedin&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fbilalashraf7996%2F" alt="mianbilalashraf" /> </a>
+  
+<a href="https://www.hackerrank.com/BilalAshraf" target="_blank"><img src="https://img.shields.io/twitter/url?label=Hackerrank&logo=Hackerrank&style=for-the-badge&url=https%3A%2F%2Fwww.hackerrank.com%2FBilalAshraf" alt="mianbilalashraf" /></a>
+<a href="https://stackoverflow.com/users/8441593/muhammad-bilal?tab=profile" target="_blank"><img src="https://img.shields.io/twitter/url?color=blue&label=StackOverflow&logo=stackoverflow&style=for-the-badge&url=https%3A%2F%2Fstackoverflow.com%2Fusers%2F8441593%2Fmuhammad-bilal%3Ftab%3Dprofile"/>
+</div>
 <h2 align='center'> Skills <img src = "https://camo.githubusercontent.com/862f48a9043e8165541b09a5a64d969f1c155e0768a90e7a3d56f36efd8a82b3/68747470733a2f2f7777772e77656232347a6f6e652e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f31302f34363230372d70726f6772616d6d65722d312e676966" width = 50px> </h2>
 
 <div align='center' style="display:flex;flex-direction:row;flex-wrap:wrap;justify-content:center">
