@@ -1,6 +1,4 @@
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=mianbilalashraf.mianbilalashraf)
-
 ### Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Muhammad Bilal!
 <a href="https://twitter.com/bilalashraf_xd" target="_blank"><img src="https://img.shields.io/twitter/follow/BilalAshraf_XD?label=Follow&logo=twitter&style=for-the-badge" alt="bilalashraf_xd" /></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/github/followers/mianbilalashraf?label=Follow&logo=github&style=for-the-badge" alt="mianbilalashraf" /></a>
