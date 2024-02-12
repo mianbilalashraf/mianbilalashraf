@@ -7,7 +7,7 @@
 [<img src="https://img.shields.io/twitter/url?label=Hackerrank&logo=Hackerrank&style=for-the-badge&url=https%3A%2F%2Fwww.hackerrank.com%2FBilalAshraf" alt="mianbilalashraf" />](https://www.hackerrank.com/BilalAshraf)
 [<img src="https://img.shields.io/twitter/url?color=blue&label=StackOverflow&logo=stackoverflow&style=for-the-badge&url=https%3A%2F%2Fstackoverflow.com%2Fusers%2F8441593%2Fmuhammad-bilal%3Ftab%3Dprofile"/>](https://stackoverflow.com/users/8441593/muhammad-bilal?tab=profile)
 
-<h2 align='center'> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px> </h2>
+<h2 align='center'> Skills <img src = "https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width = 50px> </h2>
 
 <div align='center' class="skills" style="display:flex;flex-direction:row;flex-wrap:wrap;justify-content:center">
 <img src="https://img.shields.io/badge/React%20Js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="ReactJs" />
