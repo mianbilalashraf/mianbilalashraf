@@ -1,110 +1,43 @@
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=mianbilalashraf.mianbilalashraf) 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=mianbilalashraf.mianbilalashraf)
 
 ### Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Muhammad Bilal!
-  <a href="https://twitter.com/bilalashraf_xd" target="_blank"><img src="https://img.shields.io/twitter/follow/BilalAshraf_XD?label=Follow&logo=twitter&style=for-the-badge" alt="bilalashraf_xd" /></a> 
-  <a href="#" target="_blank"><img src="https://img.shields.io/github/followers/mianbilalashraf?label=Follow&logo=github&style=for-the-badge" alt="mianbilalashraf" /></a> 
-   [<img src="https://img.shields.io/twitter/url?color=blue&label=Linkedin&logo=linkedin&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fbilalashraf7996%2F" alt="mianbilalashraf" />](https://www.linkedin.com/in/bilalashraf7996/) 
-  [<img src="https://img.shields.io/twitter/url?label=Hackerrank&logo=Hackerrank&style=for-the-badge&url=https%3A%2F%2Fwww.hackerrank.com%2FBilalAshraf" alt="mianbilalashraf" />](https://www.hackerrank.com/BilalAshraf) 
- [<img src="https://img.shields.io/twitter/url?color=blue&label=StackOverflow&logo=stackoverflow&style=for-the-badge&url=https%3A%2F%2Fstackoverflow.com%2Fusers%2F8441593%2Fmuhammad-bilal%3Ftab%3Dprofile"/>](https://stackoverflow.com/users/8441593/muhammad-bilal?tab=profile) 
+<a href="https://twitter.com/bilalashraf_xd" target="_blank"><img src="https://img.shields.io/twitter/follow/BilalAshraf_XD?label=Follow&logo=twitter&style=for-the-badge" alt="bilalashraf_xd" /></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/github/followers/mianbilalashraf?label=Follow&logo=github&style=for-the-badge" alt="mianbilalashraf" /></a>
+[<img src="https://img.shields.io/twitter/url?color=blue&label=Linkedin&logo=linkedin&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fbilalashraf7996%2F" alt="mianbilalashraf" />](https://www.linkedin.com/in/bilalashraf7996/)
+[<img src="https://img.shields.io/twitter/url?label=Hackerrank&logo=Hackerrank&style=for-the-badge&url=https%3A%2F%2Fwww.hackerrank.com%2FBilalAshraf" alt="mianbilalashraf" />](https://www.hackerrank.com/BilalAshraf)
+[<img src="https://img.shields.io/twitter/url?color=blue&label=StackOverflow&logo=stackoverflow&style=for-the-badge&url=https%3A%2F%2Fstackoverflow.com%2Fusers%2F8441593%2Fmuhammad-bilal%3Ftab%3Dprofile"/>](https://stackoverflow.com/users/8441593/muhammad-bilal?tab=profile)
 
 <h2 align='center'> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px> </h2>
+<div align='center' style="display:flex;flex-direction:row;flex-wrap:wrap;justify-content: center">
+<img src="https://img.shields.io/badge/React%20Js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="ReactJs" />
 
-<div style="display:flex;flex-direction:row;flex-wrap:wrap">
-<div style="width:50px;display:inline;">
-    <img
-        width="44px"
-        src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg"
-        title="ReactJS"
-        alt="ReactJS"
-    />
-    <div>ReactJs</div>
-</div>
-<div style="width:50px;display:inline;color:red;">
-    <img
-        width="44px"
-        alt="Laravel"
-        src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/laravel.svg"
-        title="Laravel"
-    />
-    <div>Laravel</div>
-</div>
-<div style="width:50px;">
-    <img
-        width="44px"
-        alt="Javascript"
-        src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg"
-        title="Javascript"
-    />
-    <div>Javascript</div>
-</div>
-<div>
-    <img
-        width="44px"
-        alt="MongoDB"
-        src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg"
-        title="MongoDB"
-    />
-    <div>MongoDB</div>
-</div>
-<div>
-    <img
-        width="44px"
-        alt="Bootstrap"
-        src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg"
-        title="Bootstrap"
-    />
-    <div>Bootstrap</div>
+<img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="NextJs" />
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Javascript" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript" />
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
+<img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="material-ui" />
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+<img src="https://img.shields.io/badge/MongoDB-181818?style=for-the-badge&logo=mongodb&logoColor=4EA94B" alt="mongodb" />
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" />
+<img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" alt="express" />
+<img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" />
+<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git" />
+<img src="" alt="" />
+<img src="" alt="" />
+<img src="" alt="" />
+<img src="" alt="" />
+<img src="" alt="" />
+<img src="" alt="" />
+<img src="" alt="" />
+<img src="" alt="" />
+<img src="" alt="" />
+<img src="" alt="" />
+<img src="" alt="" />
 </div>
 
-<div>
-    <img
-        width="44px"
-        alt="mysql"
-        src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg"
-        title="mysql"
-    />
-    <div>MYSQL</div>
-</div>
-<div>
-    <img
-        width="44px"
-        alt="Typescript"
-        src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg"
-        title="Typescript"
-    />
-    <div>Typescript</div>
-</div>
-<div>
-    <img
-        width="44px"
-        alt="postman"
-        src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postman.svg"
-        title="postman"
-    />
-    <div>Postman</div>
-</div>
-<div>
-    <img
-        width="44px"
-        alt="Node"
-        src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg"
-        title="Node"
-    />
-    <div>NodeJs</div>
-</div>
-<div>
-    <img
-        width="44px"
-        alt="Linux"
-        src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linux.svg"
-        title="Linux"
-    />
-    <div>Linux(Ubuntu)</div>
-</div>
-  </div>
-    
-   <br/>
+
+<br/>
 <h2> Stuff I worked on last week  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px> </h2>
 <a href="https://github.com/mianbilalashraf/mianbilalashraf/blob/main/README.md#-stuff-i-worked-on-last-week---">
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@mianbilalashraf&compact=True"/>
